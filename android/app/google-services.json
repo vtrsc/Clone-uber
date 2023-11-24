@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "646000566820",
+    "project_id": "uber-24044",
+    "storage_bucket": "uber-24044.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646000566820:android:94ecc7a8ebcc8912392eb1",
+        "android_client_info": {
+          "package_name": "com.cursoflutter.jamiltondamasceno.uber"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg724JxL2iNXiPTAwwv1ON-_81WOuVQUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
